@@ -4,6 +4,16 @@ A retrieval-augmented resume-writing demo. It extracts an existing resume,
 retrieves relevant evidence and writing guidance for a target job, and sends
 that context to an OpenAI chat model to produce a tailored draft.
 
+## Project details
+
+- **Student:** Shravan Kashyap
+- **Roll number:** 23052428
+- **Batch / Section:** B-1-IRT
+- **Course:** Gen AI & Prompt Engineering
+- **Trainer:** Sachin Sir
+- **Submission date:** 30/09/2026
+- **Domain:** Machine Learning / Generative AI
+
 The generator is designed to preserve the candidate's facts: it must not add
 skills, achievements, dates, credentials, or metrics that are not supported by
 the source resume. Job requirements without supporting evidence should be
